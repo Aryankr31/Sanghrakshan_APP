@@ -1,0 +1,10 @@
+const appicon = 'assets/images/logojiims.png';
+const bgimage = 'assets/images/bgimage.jpg';
+const homeicon = 'assets/images/home-icon-vector.jpg';
+const profileicon = 'assets/images/R (2).png';
+const metaGuide = 'assets/images/virtual_reality_logo_4x.jpg';
+const connect = 'assets/images/connect.jpg';
+const chatboticon = 'assets/images/chatbotlogo.jpg';
+const ar = 'assets/images/ar image.jpg';
+const aiavtar = 'assets/images/avatar guide.jpg';
+const fitness = 'assets/images/posture Tracking.png';
